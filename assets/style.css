@@ -1,0 +1,36 @@
+body {
+    background-image: url("background.jpg");
+   }
+
+#mypic {
+    height: 200px;
+    width: 200px;
+
+}
+
+h1 { 
+    line-height: 100px;
+    border-bottom: solid
+}
+
+.container {
+    float: left;
+    position: relative;
+    border: solid;
+    background: white;
+    Width: 50%;
+    left: 100px;
+    top: 50px;
+    padding: 100px;
+}
+
+#content {
+    margin-top: 50px;
+
+}
+
+.portfoliopictures {
+    height: 350px;
+    width: 350px;
+    margin: 50px 0px 0px 0px;
+}
